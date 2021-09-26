@@ -44,9 +44,9 @@
 }
 
 .theme-dark {
-  --accent-primary: rgba(205, 9, 82, 1.0);
-  --accent-secondary: rgba(225, 9, 89, 1.0);
-  --accent-tertiary: rgba(159, 11, 64, 1.0);
+  --accent-primary: rgba(154, 6, 60, 1.0);
+  --accent-secondary: rgba(184, 7, 72, 1.0);
+  --accent-tertiary: rgba(134, 4, 50, 1.0);
   --green-primary: rgba(67, 181, 129);
   --green-secondary: rgba(97, 208, 154);
   --green-tertiary: rgba(32, 153, 103);
